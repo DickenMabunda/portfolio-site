@@ -282,7 +282,7 @@ hr{
 
 .picture{
     
-    width: 90%;
+    width: 100%;
     margin:100px auto;
     display: flex;
     flex-direction: column;
@@ -354,7 +354,8 @@ hr{
 
     .img-1{
         width: 250px;
-        height: 200px;
+        height: 250px;
+        object-fit: cover;
         border-radius: 10px;
         box-shadow: none;
     }
