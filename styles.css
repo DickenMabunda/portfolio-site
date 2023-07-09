@@ -353,8 +353,8 @@ hr{
     }
 
     .img-1{
-        width: 250px;
-        height: 250px;
+        width: 400px;
+        height: 400px;
         object-fit: cover;
         border-radius: 10px;
         box-shadow: none;
@@ -362,7 +362,7 @@ hr{
 
     .div-3{
     
-        width: 200px;
+        width: 150px;
     }
 
     .header-2{
