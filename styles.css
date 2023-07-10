@@ -353,8 +353,10 @@ hr{
     }
 
     .img-1{
-        width: 400px;
-        height: 400px;
+        max-width: 400px;
+        max-height: 400px;
+        width: auto;
+        width: auto;
         object-fit: cover;
         border-radius: 10px;
         box-shadow: none;
