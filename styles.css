@@ -383,7 +383,7 @@ hr{
         font-size: 10px;
     }
     .div-7{
-        width: 90%;
+        width: 100%;
     }
 
     .header-3{
@@ -392,6 +392,8 @@ hr{
 
     .div-6 {
         flex-direction: column;
+        justify-content: center;
+        align-self: center;
     }
     
  }
